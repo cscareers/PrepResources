@@ -2,13 +2,8 @@
 
 A curated list of interview preparation resources, organized by role.
 
-## Latest jobs
-
-- [Recent US tech postings (last 24 hours)](https://askedbefore.io/jobs)
-
-## Community
-
-- [Discord](https://discord.com/invite/fRCWQRez2A): interview questions and discussion
+| [Latest jobs (last 24 hours)](https://askedbefore.io/jobs) | [Discord: interview questions and discussion](https://discord.com/invite/fRCWQRez2A) |
+|---|---|
 
 ## Software Engineer
 
