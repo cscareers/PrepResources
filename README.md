@@ -2,6 +2,14 @@
 
 A curated list of interview preparation resources, organized by role.
 
+## Latest jobs
+
+- [Recent US tech postings (last 24 hours)](https://askedbefore.io/jobs)
+
+## Community
+
+- [Discord](https://discord.com/invite/fRCWQRez2A): interview questions and discussion
+
 ## Software Engineer
 
 - [LeetCode](https://leetcode.com/): practice problems. Free tier; premium available
@@ -89,11 +97,3 @@ A curated list of interview preparation resources, organized by role.
 - [Hello Interview](https://www.youtube.com/@hello_interview): system design and interview tips
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo): system design
 - [take U forward (Striver)](https://www.youtube.com/@takeUforward): coding and interview tips
-
-## Community
-
-- [Discord](https://discord.com/invite/fRCWQRez2A): interview questions and discussion
-
-## Latest jobs
-
-- [Recent US tech postings (last 24 hours)](https://askedbefore.io/jobs)
