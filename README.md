@@ -2,9 +2,6 @@
 
 A curated list of interview preparation resources, organized by role.
 
-| [Latest jobs (last 24 hours)](https://askedbefore.io/jobs) | [Discord: interview questions and discussion](https://discord.com/invite/fRCWQRez2A) |
-|---|---|
-
 ## Software Engineer
 
 - [LeetCode](https://leetcode.com/): practice problems. Free tier; premium available
@@ -13,6 +10,9 @@ A curated list of interview preparation resources, organized by role.
 - [Hello Interview](https://www.hellointerview.com/): system design and mock interviews. Free tier; paid plans
 - [ByteByteGo](https://bytebytego.com/): visual system design explanations. Free content; paid products
 - [AskedBefore](https://askedbefore.io/interview): company-specific questions and candidate experiences
+
+| [Latest jobs (last 24 hours)](https://askedbefore.io/jobs) | [Discord: interview questions and discussion](https://discord.com/invite/fRCWQRez2A) |
+|---|---|
 
 ## Frontend Engineer
 
